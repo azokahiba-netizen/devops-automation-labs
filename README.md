@@ -9,3 +9,6 @@ Practical Python and shell automation scripts for systems administration, networ
 - **Usage**:
   ```bash
   python system_health.py
+  
+### 2. Log & Temp File Cleaner (`clean_temp_files.py`)
+- Purpose: Cleans old temporary files from a folder.
